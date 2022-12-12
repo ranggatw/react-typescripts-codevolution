@@ -1,3 +1,6 @@
+Learning React TypeScript from Codevolution Youtube Channel
+[Source ](https://www.youtube.com/watch?v=TiSGujM22OI&list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK&index=2&ab_channel=Codevolution)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
